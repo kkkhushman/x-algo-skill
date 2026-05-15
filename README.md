@@ -1,5 +1,8 @@
 # x-for-you-algorithm — an Agent Skill
 
+[![skills.sh](https://skills.sh/b/kkkhushman/x-algo-skill)](https://skills.sh/kkkhushman/x-algo-skill)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 A portable, deep-dive **knowledge skill** that equips any AI coding agent (Claude Code, Cursor, Codex, Copilot, Gemini, OpenCode, and 50+ others) to reason correctly about **X's open-sourced For You feed algorithm** (`xai-org/x-algorithm`, released 2026-05-15).
 
 ## What this skill is
